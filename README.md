@@ -10,3 +10,5 @@ Add items to their cart
 Download a PDF of cart items
 Collect their order offline from the chosen shop
 The aim is to empower local vendors, provide users with choice & transparency, and blend digital convenience with offline accessibility.
+
+# Figma URL
